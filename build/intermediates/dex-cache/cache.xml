@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b42439b04962386f2d4020426815e7c02232f7c4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_8dcb46c408e7c25c4064e3c9807e0e9508742d93\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_90d1f3f53490bb57b3b2179b3ba5dbafb638496b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_7186f7724bb181b77e81b67120afe93cfc396faf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\libs\GenAsync.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6a58a869c275f3424cffb0c266d1d1c1518e38e7">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\transforms\dex\debug\folders\1000\2\GenAsync_cdfd74e71f72e351320c3f0f1f3c232aba148178\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_da2a06113bab16ddf68c5559d5e1debac226648c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="5a56890c524fe6894187675e0acaed5f48524448">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0327ebecc2b2e0f3a4e266870003f22ceb632da5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_181e9f8d635f2bf826662da05a9ad1d8b83a7ac6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_9c0050ede7b92e7d0354d9b80d7df57026d19393\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_35638c1dd275f9c96989f19be4c7ee4d1f9693c8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_2156ae99fd6bb1aeef6286f769b09175dc6d2b3b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_27a4f090cb9db5d67d12dbc1c2c92c9e55f8d31a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_d7b05c71e6ef0afdbd351a8e17cd26175bdd1342\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Acer\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_3a0478d51ac4ff37485531bbd7737f3081b785cf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_adee2cc787fa623c6c3a903a33252d1f10d228d1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_4691a0c7d64e34f5a4f9cf929e24c1d0576101bb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_921e8f1de54bdc57c685eed1b689bc1b226a86b2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="4fee3b570c1ebb8ded08886cfe649d9aa5205df3">
+        <dex dex="C:\Users\Acer\AndroidStudioProjects\ParkACar2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d1305f577b9a18bdd1f92abd1c79d7964721177b\classes.dex" />
+    </item>
+
+</items>
